@@ -1,0 +1,10 @@
+.newspaper {
+    background: url('/assets/bg.png');
+    padding: 70px 50px;
+    color: #ffff;
+    text-align: center;
+}
+.newspaper h2{}
+.newspaper p {
+    margin: 25px 0;
+}
